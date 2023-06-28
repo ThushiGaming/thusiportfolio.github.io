@@ -198,7 +198,7 @@ const testimonials = [
     name: "Ajay",
     designation: "CTO",
     company: "ApexSolutions",
-    image: "https://cdn.discordapp.com/attachments/1119010859939794964/1122913102346846359/Snapchat-153129051-02-01.jpeg",
+    image: "https://cdn.discordapp.com/attachments/963104633071484998/1123684350836363415/Snapchat-153129051-02-01.jpeg",
   },
 ];
 
